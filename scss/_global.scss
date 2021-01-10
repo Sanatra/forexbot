@@ -211,17 +211,5 @@ body.active{
   margin: 0 auto;
   padding: 0 15px;
 }
-.top{
-  position: fixed;
-  right: 50px;
-  bottom: 50px;
-  background: #1E4BD2;
-  width: 35px;
-  height: 35px;
-  border-radius: 20px;
-  z-index: 55;
-  cursor: pointer;
-  &-box{
-    position: relative;
-  }
-}
+
+
